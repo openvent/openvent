@@ -12,6 +12,8 @@ https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/
 Specs of commercial ventilator
 https://static.t-cdn.net/5e709760bac2d7638f9ccf9b/posts/5e7497da27c1d753b2f87b2b/6671_30696_1000e_tech_data.pdf
 
+https://e-vent.mit.edu
+
 Less useful but general reference
 https://www.journals.elsevier.com/hardwarex/call-for-papers/special-issue-on-open-source-covid19-medical-hardware
 https://coronavirustechhandbook.com/hardware
